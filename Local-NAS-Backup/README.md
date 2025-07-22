@@ -32,6 +32,7 @@ Before using this script, you'll need to set up API credentials in the Rhombus c
 | `--usewan` | `-w` | Enable WAN mode for offsite operation | ❌ No |
 | `--location_uuid` | `-loc` | UUID of the location to copy footage from | ❌ No |
 | `--camera_uuid` | `-cam` | UUID of specific camera to copy footage from | ❌ No |
+| `--destination` | `-d` | Path to directory that the footage will be saved in | ❌ No |
 
 ## Usage Examples
 
